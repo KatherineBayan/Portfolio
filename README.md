@@ -39,7 +39,7 @@ Currently, I work as a **freelance data and spreadsheet specialist**, building i
 
 | Repository | Description |
 |---|---|
-| [Portfolio](https://github.com/KatherineBayan/Portfolio) | Main hub (you are here) |
+| **[Portfolio Main Page](https://github.com/KatherineBayan/Portfolio)** | **Main hub (you are here)** |
 | [Data Analyst Portfolio](https://github.com/KatherineBayan/Data-Analyst-Portfolio) | Data analysis, visualization, and dashboard projects |
 | [Software Development Portfolio](https://github.com/KatherineBayan/Software-Development-Portfolio) | Software and programming projects |
 
