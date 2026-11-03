@@ -16,11 +16,7 @@ This repository is the central hub for my **Data Analytics** and **Software Deve
   - [ASOS Product Analysis](#asos-product-analysis)
 - [Software Development Projects](#software-development-projects)
   - [JOTTER~O: A MULTIMODAL AI DIARY COMPANION FOR SUPPORTING DLSU-D STUDENT’S WELL-BEING USING DEEP NEURAL NETWORKS](#jottero-a-multimodal-ai-diary-companion-for-supporting-dlsu-d-students-well-being-using-deep-neural-networks).
-- [Skills and Tools](#skills-and-tools)
-- [Education](#education)
-- [Experience Highlights](#experience-highlights)
 - [Certifications](#certifications)
-- [Languages](#languages)
 - [Contact](#contact)
 
 ---
@@ -192,60 +188,6 @@ Jotter~O is a multimodal AI diary companion designed to enhance the emotional we
 
 ---
 
-## Skills and Tools
-
-| Category | Tools and Skills |
-|---|---|
-| **Data Analysis** | Excel (Advanced: PivotTables, VLOOKUP/XLOOKUP, Power Query), Google Sheets, SQL, Microsoft Access |
-| **Programming** | Python (Pandas, NumPy, Jupyter, Anaconda), Visual Studio Code, Git/GitHub |
-| **Visualization / BI** | Microsoft Power BI, Tableau, Google Data Studio |
-| **Data Mining and ML Concepts** | RapidMiner, Apriori Algorithm, Ensemble Methods, Classification and Clustering Techniques |
-| **Core Strengths** | Statistical Analysis, Dashboard Reporting, Attention to Detail, Critical Thinking, Problem-Solving, Clear Communication of Insights |
-
-[Back to top](#katherine-nicole-r-bayan--portfolio)
-
----
-
-## Education
-
-**Bachelor of Science in Computer Science, Specialization in Intelligent Systems**
-De La Salle University - Dasmariñas | 2021 - 2025
-
-- Magna Cum Laude
-- Dean's Lister (A.Y. 2021 - 2025)
-- Excellence in Leadership Awardee (2024)
-- **Relevant Coursework:** Data Structures and Algorithms, Database Management Systems, Machine Learning, Statistics and Probability, Data Mining, Software Engineering
-
-[Back to top](#katherine-nicole-r-bayan--portfolio)
-
----
-
-## Experience
-
-**Freelance Data and Spreadsheet Specialist** | Self-Employed (Oct 2025 - Present)
-- Built incentive tracking sheets that automate commission calculations
-- Designed inventory management systems in Excel and Google Sheets
-- Developed personal spending trackers with automated categorization and visualizations
-- Supported researchers with data cleaning, statistical tests (t-tests, regression, correlation), and visualizations
-
-**Intern, Team Lead Assistant** | The Umonics Method, Singapore (Jun 2024 - Aug 2024)
-- Built and presented weekly dashboard reports on team progress and output
-- Used Google Search Console to monitor website performance and inform SEO decisions
-- Maintained structured datasets and managed multiple WordPress websites
-
-**Director of Creatives** | CSCS Student Government (Jul 2024 - Feb 2025)
-- Implemented Excel, Google Sheets, and Notion systems for workload tracking and reporting
-- Led and mentored the Creatives Committee across multiple college events
-
-**Legislative Councilor** | CSCS Student Government (Jan 2024 - Apr 2024)
-- Researched facts and statistics and built dashboard reports to support legislative proposals
-
-**Committee Member** | CSCS Student Government (Aug 2021 - Dec 2023)
-- Managed event data and designed scoresheets, using visualizations to analyze competition results
-
-[Back to top](#katherine-nicole-r-bayan--portfolio)
-
----
 
 ## Certifications
 
@@ -273,16 +215,6 @@ De La Salle University - Dasmariñas | 2021 - 2025
 - **INCRIS: International Conference on Research Inclusivity and Sustainability** | De La Salle University - Dasmariñas (Jun 2022)
 - **Codelympics 2022** | CSIT Program Council (Jun 2022)
   
-[Back to top](#katherine-nicole-r-bayan--portfolio)
-
----
-
-## Languages
-
-- English: Fluent
-- Filipino: Fluent
-
-[Back to top](#katherine-nicole-r-bayan--portfolio)
 
 ---
 
